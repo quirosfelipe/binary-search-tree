@@ -21,3 +21,4 @@ Keep making the top-most test pass until all tests pass.
   * **lib/leet_code_110.js** as a scratch pad to work on the LeetCode.com
     problem at https://leetcode.com/problems/balanced-binary-tree/
 # binary-tree
+# binary-search-tree
